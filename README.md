@@ -1,9 +1,11 @@
 Maruthi-Ecommerce-Sales Data Analysis(Interactive dashboard creation using power bi)
+
 project objective:
 
 “The objective of this project is to analyze Maruthi Ecommerce’s sales data and present key insights through an interactive dashboard. It aims to track sales amount, profit, and quantity across various dimensions such as state, category, payment mode, and customer. This helps identify trends, high-performing areas, and opportunities for improvement.”
 
 KPIs / Key Questions
+
 >What is the total sales amount, total profit, and total quantity sold?
 
 >Which states contribute the highest and lowest sales amounts?

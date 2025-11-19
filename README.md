@@ -1,18 +1,2 @@
-Project Process
-1. Data Collection
-
-Gather the ecommerce sales dataset containing fields like amount, profit, quantity, state, category, payment mode, and customer details.
-
-2. Data Cleaning & Preparation
-
-Remove duplicates, fix missing values, correct data types, and standardize category names.
-Create calculated fields if needed (e.g., total amount, profit %).
-
-3. Data Analysis
-
-Identify key metrics such as total sales, profit, quantity sold, top states, top customers, category contribution, and monthly profit trends.
-
-4. Dashboard Design & Visualization
-
-Develop visual charts like bar graphs, pie charts, and trend lines to represent KPIs.
-Arrange visuals to provide quick insights into sales, profit, and customer behavior.
+Dashbboard:
+<img width="884" height="494" alt="dashboard_screeshot" src="https://github.com/user-attachments/assets/119d5f47-1c7d-4a32-8b81-b861d599d640" />

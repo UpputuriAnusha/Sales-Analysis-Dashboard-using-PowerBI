@@ -1,21 +1,18 @@
-KPIs / Key Questions
+Project Process
+1. Data Collection
 
->What is the total sales amount, total profit, and total quantity sold?
+Gather the ecommerce sales dataset containing fields like amount, profit, quantity, state, category, payment mode, and customer details.
 
->Which states contribute the highest and lowest sales amounts?
+2. Data Cleaning & Preparation
 
->Which months generate the highest profit, and what are the monthly profit trends?
+Remove duplicates, fix missing values, correct data types, and standardize category names.
+Create calculated fields if needed (e.g., total amount, profit %).
 
->Which product sub-categories are the most profitable?
+3. Data Analysis
 
->Which payment modes are most frequently used by customers?
+Identify key metrics such as total sales, profit, quantity sold, top states, top customers, category contribution, and monthly profit trends.
 
->Which product categories contribute the most to total quantity sold?
+4. Dashboard Design & Visualization
 
->Which customers generate the highest sales revenue?
-
->What is the average profit per order or per product category?
-
->Are there any noticeable seasonal or monthly fluctuations in sales or profit?
-
->Which regions or categories need improvement based on low sales or profit performance?
+Develop visual charts like bar graphs, pie charts, and trend lines to represent KPIs.
+Arrange visuals to provide quick insights into sales, profit, and customer behavior.

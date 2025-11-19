@@ -1,14 +1,2 @@
-Key Insights:
->Maharashtra and Madhya Pradesh show the highest sales performance.
-
->Punjab and Gujarat have lower sales compared to other states.
-
->Electronics is the top-selling product category, followed by Clothing and Furniture.
-
->UPI and Credit Card are the most preferred payment modes.
-
->December, January, and February record the highest profit levels.
-
->Printers and Bookcases are the most profitable sub-categories.
-
->Customers like Harivansh and Madhav contribute majorly to total sales.
+Final Conclusion:
+The sales dashboard clearly highlights strong revenue contributions from key states and top-performing product categories. Customer preferences lean toward digital payment modes, and certain months show peak profitability. Overall, the insights help identify growth opportunities and support better strategic decision-making for Maruthi Ecommerce.
